@@ -1144,9 +1144,18 @@
       "represents": "BLR",
       "birthplace": "Minsk",
       "birthCountry": "BLR",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "BLR",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Aryna_Sabalenka"
+        }
+      ],
+      "note": "Belarusian family, Minsk.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1155,9 +1164,18 @@
       "represents": "KAZ",
       "birthplace": "Moscow",
       "birthCountry": "RUS",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "RUS",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Elena_Rybakina"
+        }
+      ],
+      "note": "Russian family (born Moscow); represents Kazakhstan since 2018.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1168,15 +1186,23 @@
       "birthCountry": "POL",
       "parents": [
         {
-          "role": "",
+          "role": "father",
           "name": "Tomasz Świątek",
-          "birthplace": "Warsaw",
+          "birthplace": "Poland",
           "country": "POL",
           "status": "verified",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Iga_%C5%9Awi%C4%85tek"
+        },
+        {
+          "role": "mother",
+          "name": "Dorota Świątek",
+          "birthplace": "Poland",
+          "country": "POL",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Iga_%C5%9Awi%C4%85tek"
         }
       ],
-      "note": "Tomasz Świątek — rower (Poland)",
+      "note": "Father Tomasz, an Olympic rower for Poland.",
       "researched": true
     },
     {
@@ -1186,9 +1212,18 @@
       "represents": "USA",
       "birthplace": "Delray Beach",
       "birthCountry": "USA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "USA",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Coco_Gauff"
+        }
+      ],
+      "note": "American family, Atlanta/Florida.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1199,23 +1234,23 @@
       "birthCountry": "USA",
       "parents": [
         {
-          "role": "",
+          "role": "father",
           "name": "Terry Pegula",
-          "birthplace": "Carbondale",
+          "birthplace": "Carbondale, Pennsylvania",
           "country": "USA",
           "status": "verified",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Terry_Pegula"
         },
         {
-          "role": "",
+          "role": "mother",
           "name": "Kim Pegula",
           "birthplace": "Seoul",
           "country": "KOR",
           "status": "verified",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Kim_Pegula"
         }
       ],
-      "note": "Kim Pegula (United States); Terry Pegula — entrepreneur (United States)",
+      "note": "Mother Kim born in Seoul, adopted to the US as a child; father American.",
       "researched": true
     },
     {
@@ -1227,16 +1262,24 @@
       "birthCountry": "USA",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
+          "role": "father",
+          "name": "Konstantin Anisimov",
+          "birthplace": "Moscow",
           "country": "RUS",
-          "status": "inferred",
-          "source": ""
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Amanda_Anisimova"
+        },
+        {
+          "role": "mother",
+          "name": "Olga Anisimova",
+          "birthplace": "Moscow",
+          "country": "RUS",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Amanda_Anisimova"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Both parents from Moscow; emigrated to the US in 1998.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1245,9 +1288,18 @@
       "represents": "RUS",
       "birthplace": "Krasnoyarsk",
       "birthCountry": "RUS",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "RUS",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Mirra_Andreeva"
+        }
+      ],
+      "note": "Russian family, Krasnoyarsk.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1258,24 +1310,24 @@
       "birthCountry": "ITA",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
+          "role": "father",
+          "name": "Ugo Paolini",
+          "birthplace": "Italy",
           "country": "ITA",
-          "status": "inferred",
-          "source": ""
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Jasmine_Paolini"
         },
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
+          "role": "mother",
+          "name": "Jacqueline Gardiner",
+          "birthplace": "Łódź",
           "country": "POL",
-          "status": "inferred",
-          "source": ""
+          "status": "verified",
+          "source": "https://www.corrierediarezzo.it/news/sport/350952/"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Mother born in Łódź, Poland (her father — Jasmine's grandfather — was Ghanaian).",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1286,16 +1338,24 @@
       "birthCountry": "USA",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
+          "role": "father",
+          "name": "Cyprien Mboko",
+          "birthplace": "DR Congo",
           "country": "COD",
-          "status": "inferred",
-          "source": ""
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Victoria_Mboko"
+        },
+        {
+          "role": "mother",
+          "name": "Godée Kitadi",
+          "birthplace": "DR Congo",
+          "country": "COD",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Victoria_Mboko"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Both parents fled the DR Congo; Victoria born in Charlotte, raised in Canada.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1304,9 +1364,18 @@
       "represents": "UKR",
       "birthplace": "Odesa",
       "birthCountry": "UKR",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "UKR",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Elina_Svitolina"
+        }
+      ],
+      "note": "Ukrainian family, Odesa.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1317,15 +1386,15 @@
       "birthCountry": "CZE",
       "parents": [
         {
-          "role": "",
+          "role": "father",
           "name": "Josef Mucha",
-          "birthplace": "Czechoslovakia",
-          "country": "CSK",
+          "birthplace": "Czechia",
+          "country": "CZE",
           "status": "verified",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Karolina_Muchova"
         }
       ],
-      "note": "Josef Mucha — association football coach, association football player (Czech Republic)",
+      "note": "Father Josef, a footballer/coach.",
       "researched": true
     },
     {
@@ -1337,15 +1406,23 @@
       "birthCountry": "CHE",
       "parents": [
         {
-          "role": "",
-          "name": "Ivan Bencic",
-          "birthplace": "Bratislava",
+          "role": "father",
+          "name": "Ivan Benčič",
+          "birthplace": "Czechoslovakia",
           "country": "SVK",
           "status": "verified",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Belinda_Bencic"
+        },
+        {
+          "role": "mother",
+          "name": "Dana Benčič",
+          "birthplace": "Czechoslovakia",
+          "country": "SVK",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Belinda_Bencic"
         }
       ],
-      "note": "Dana Bencic; Ivan Bencic — ice hockey player (Switzerland)",
+      "note": "Slovak family born in Czechoslovakia; father's family emigrated to Switzerland in 1968.",
       "researched": true
     },
     {
@@ -1355,9 +1432,18 @@
       "represents": "CZE",
       "birthplace": "Vsetín",
       "birthCountry": "CZE",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "CZE",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Linda_Noskova"
+        }
+      ],
+      "note": "Czech family.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1366,9 +1452,18 @@
       "represents": "RUS",
       "birthplace": "Chelyabinsk",
       "birthCountry": "RUS",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "RUS",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Ekaterina_Alexandrova"
+        }
+      ],
+      "note": "Russian family.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1377,9 +1472,18 @@
       "represents": "UKR",
       "birthplace": "Kyiv",
       "birthCountry": "UKR",
-      "parents": [],
-      "note": "Talina Beiko — tennis player (Ukraine)",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "UKR",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Marta_Kostyuk"
+        }
+      ],
+      "note": "Ukrainian family, Kyiv; mother a tennis coach.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1390,24 +1494,24 @@
       "birthCountry": "JPN",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
-          "country": "JPN",
-          "status": "inferred",
-          "source": ""
+          "role": "father",
+          "name": "Leonard François",
+          "birthplace": "Port-au-Prince",
+          "country": "HTI",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Naomi_Osaka"
         },
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
-          "country": "HTI",
-          "status": "inferred",
-          "source": ""
+          "role": "mother",
+          "name": "Tamaki Osaka",
+          "birthplace": "Nemuro, Hokkaido",
+          "country": "JPN",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Naomi_Osaka"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Haitian father, Japanese mother; born in Osaka, Japan.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1418,16 +1522,24 @@
       "birthCountry": "USA",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
+          "role": "father",
+          "name": "Bojan Jovic",
+          "birthplace": "Leskovac",
           "country": "SRB",
-          "status": "inferred",
-          "source": ""
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Iva_Jovic"
+        },
+        {
+          "role": "mother",
+          "name": "Jelena Jovic",
+          "birthplace": "Split",
+          "country": "HRV",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Iva_Jovic"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Father from Leskovac (Serbia), mother born in Split (Croatia); family emigrated to California.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1438,15 +1550,15 @@
       "birthCountry": "DNK",
       "parents": [
         {
-          "role": "",
+          "role": "father",
           "name": "Søren Tauson",
-          "birthplace": "Virum",
+          "birthplace": "Denmark",
           "country": "DNK",
           "status": "verified",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Clara_Tauson"
         }
       ],
-      "note": "Søren Tauson — businessperson, ice hockey player, tennis coach (Kingdom of Denmark)",
+      "note": "Danish family.",
       "researched": true
     },
     {
@@ -1456,9 +1568,18 @@
       "represents": "USA",
       "birthplace": "Rock Island",
       "birthCountry": "USA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "USA",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Madison_Keys"
+        }
+      ],
+      "note": "American family, Illinois.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1467,9 +1588,18 @@
       "represents": "RUS",
       "birthplace": "Zhigulyovsk",
       "birthCountry": "RUS",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "RUS",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Diana_Shnaider"
+        }
+      ],
+      "note": "Russian family.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1478,9 +1608,18 @@
       "represents": "RUS",
       "birthplace": "Olenegorsk",
       "birthCountry": "RUS",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "RUS",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Liudmila_Samsonova"
+        }
+      ],
+      "note": "Russian family.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1489,9 +1628,18 @@
       "represents": "BEL",
       "birthplace": "Leuven",
       "birthCountry": "BEL",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "BEL",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Elise_Mertens"
+        }
+      ],
+      "note": "Belgian family.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1502,24 +1650,24 @@
       "birthCountry": "CAN",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
+          "role": "father",
+          "name": "Jorge Fernandez",
+          "birthplace": "Guayaquil",
           "country": "ECU",
-          "status": "inferred",
-          "source": ""
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
         },
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
+          "role": "mother",
+          "name": "Irene Exevea",
+          "birthplace": "Canada",
           "country": "CAN",
-          "status": "inferred",
-          "source": ""
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Leylah_Fernandez"
         }
       ],
-      "note": "Jorge Fernandez — association football player, tennis coach (Ecuador)",
-      "researched": false
+      "note": "Father born in Guayaquil, Ecuador; mother born in Canada to Filipino parents.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1528,9 +1676,18 @@
       "represents": "RUS",
       "birthplace": "Moscow",
       "birthCountry": "RUS",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "RUS",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Anna_Kalinskaya"
+        }
+      ],
+      "note": "Russian family, Moscow.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1539,9 +1696,26 @@
       "represents": "USA",
       "birthplace": "Washington, D.C.",
       "birthCountry": "USA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "father",
+          "name": "Quasim Baptiste",
+          "birthplace": "",
+          "country": "HTI",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Hailey_Baptiste"
+        },
+        {
+          "role": "mother",
+          "name": "Shari Baptiste",
+          "birthplace": "",
+          "country": "HTI",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Hailey_Baptiste"
+        }
+      ],
+      "note": "Haitian-American family; parents' exact birthplaces not published (heritage-based).",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1550,9 +1724,18 @@
       "represents": "CZE",
       "birthplace": "Prague",
       "birthCountry": "CZE",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "CZE",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Marie_Bouzkova"
+        }
+      ],
+      "note": "Czech family, Prague.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1561,9 +1744,18 @@
       "represents": "ROU",
       "birthplace": "Bucharest",
       "birthCountry": "ROU",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "ROU",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Sorana_Cirstea"
+        }
+      ],
+      "note": "Romanian family.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1572,9 +1764,18 @@
       "represents": "ROU",
       "birthplace": "Bucharest",
       "birthCountry": "ROU",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "ROU",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Jaqueline_Cristian"
+        }
+      ],
+      "note": "Romanian family, Bucharest.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1583,9 +1784,26 @@
       "represents": "USA",
       "birthplace": "King of Prussia",
       "birthCountry": "USA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "father",
+          "name": "Feng Li",
+          "birthplace": "Changchun",
+          "country": "CHN",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Ann_Li_(tennis)"
+        },
+        {
+          "role": "mother",
+          "name": "Jianchao Li",
+          "birthplace": "Suzhou",
+          "country": "CHN",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Ann_Li_(tennis)"
+        }
+      ],
+      "note": "Both parents Chinese immigrants (college athletes) from Changchun and Suzhou.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1596,24 +1814,24 @@
       "birthCountry": "CAN",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
+          "role": "father",
+          "name": "Ion Răducanu",
+          "birthplace": "Bucharest",
           "country": "ROU",
-          "status": "inferred",
-          "source": ""
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Emma_Raducanu"
         },
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
+          "role": "mother",
+          "name": "Renee Zhai",
+          "birthplace": "Shenyang",
           "country": "CHN",
-          "status": "inferred",
-          "source": ""
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Emma_Raducanu"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Romanian father, Chinese mother; born in Toronto, raised in England.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1624,15 +1842,15 @@
       "birthCountry": "MDA",
       "parents": [
         {
-          "role": "",
+          "role": "father",
           "name": "Ion Bucșa",
           "birthplace": "Hîncești",
           "country": "MDA",
           "status": "verified",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Cristina_Bucsa"
         }
       ],
-      "note": "Ion Bucșa — biathlete, cross-country skier, tennis coach (Moldova)",
+      "note": "Moldovan family; born in Chișinău, represents Spain.",
       "researched": true
     },
     {
@@ -1642,9 +1860,18 @@
       "represents": "CHN",
       "birthplace": "Shiyan",
       "birthCountry": "CHN",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "CHN",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Zheng_Qinwen"
+        }
+      ],
+      "note": "Chinese family.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1653,9 +1880,18 @@
       "represents": "CHN",
       "birthplace": "Shenzhen",
       "birthCountry": "CHN",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "CHN",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Wang_Xinyu"
+        }
+      ],
+      "note": "Chinese family.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1666,24 +1902,24 @@
       "birthCountry": "USA",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
-          "country": "USA",
-          "status": "inferred",
-          "source": ""
+          "role": "father",
+          "name": "Michael (Mick) Joint",
+          "birthplace": "Australia",
+          "country": "AUS",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Maya_Joint"
         },
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
-          "country": "AUS",
-          "status": "inferred",
-          "source": ""
+          "role": "mother",
+          "name": "Katja Joint",
+          "birthplace": "Germany",
+          "country": "DEU",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Maya_Joint"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Australian father, German mother; born in Michigan, now represents Australia.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1694,15 +1930,15 @@
       "birthCountry": "USA",
       "parents": [
         {
-          "role": "",
+          "role": "father",
           "name": "Ben Navarro",
-          "birthplace": "Williamstown",
+          "birthplace": "United States",
           "country": "USA",
           "status": "verified",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Emma_Navarro"
         }
       ],
-      "note": "Ben Navarro — entrepreneur",
+      "note": "American family; father a businessman.",
       "researched": true
     },
     {
@@ -1714,23 +1950,23 @@
       "birthCountry": "LVA",
       "parents": [
         {
-          "role": "",
+          "role": "father",
+          "name": "Jevgēņijs Ostapenko",
+          "birthplace": "Zaporizhzhia",
+          "country": "UKR",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Jelena_Ostapenko"
+        },
+        {
+          "role": "mother",
           "name": "Jeļena Jakovļeva",
           "birthplace": "Liepāja",
           "country": "LVA",
           "status": "verified",
-          "source": ""
-        },
-        {
-          "role": "",
-          "name": "Yevhen Ostapenko",
-          "birthplace": "Zaporizhzhia",
-          "country": "UKR",
-          "status": "verified",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Jelena_Ostapenko"
         }
       ],
-      "note": "Jeļena Jakovļeva — tennis coach, tennis player (Latvia); Yevhen Ostapenko — association football player (Soviet Union, Ukraine)",
+      "note": "Ukrainian-born father (footballer), Latvian mother (tennis coach).",
       "researched": true
     },
     {
@@ -1740,9 +1976,18 @@
       "represents": "CZE",
       "birthplace": "Znojmo",
       "birthCountry": "CZE",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "CZE",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Sara_Bejlek"
+        }
+      ],
+      "note": "Czech family.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1751,9 +1996,18 @@
       "represents": "RUS",
       "birthplace": "Saratov",
       "birthCountry": "RUS",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "RUS",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Anastasia_Potapova"
+        }
+      ],
+      "note": "Russian family.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1769,19 +2023,11 @@
           "birthplace": "",
           "country": "CZE",
           "status": "inferred",
-          "source": ""
-        },
-        {
-          "role": "",
-          "name": "",
-          "birthplace": "",
-          "country": "RUS",
-          "status": "inferred",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Katerina_Siniakova"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Czech family.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1790,9 +2036,18 @@
       "represents": "INA",
       "birthplace": "Jakarta",
       "birthCountry": "IDN",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "IDN",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Janice_Tjen"
+        }
+      ],
+      "note": "Indonesian (Chinese-Indonesian) family, Jakarta.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1801,9 +2056,18 @@
       "represents": "ITA",
       "birthplace": "Ancona",
       "birthCountry": "ITA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "ITA",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Elisabetta_Cocciaretto"
+        }
+      ],
+      "note": "Italian family, Ancona.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1812,9 +2076,18 @@
       "represents": "PHI",
       "birthplace": "Quezon City",
       "birthCountry": "PHL",
-      "parents": [],
-      "note": "Rizza Maniego-Eala — businessperson, swimmer (Philippines)",
-      "researched": false
+      "parents": [
+        {
+          "role": "mother",
+          "name": "Rizza Maniego-Eala",
+          "birthplace": "Philippines",
+          "country": "PHL",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Alexandra_Eala"
+        }
+      ],
+      "note": "Filipino family; mother a former national swimmer.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1825,15 +2098,15 @@
       "birthCountry": "FRA",
       "parents": [
         {
-          "role": "",
+          "role": "father",
           "name": "Yann Boisson",
-          "birthplace": "4th arrondissement of Lyon",
+          "birthplace": "Lyon",
           "country": "FRA",
           "status": "verified",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Lois_Boisson"
         }
       ],
-      "note": "Yann Boisson — basketball player, sports executive (France)",
+      "note": "French family; father a former basketball player.",
       "researched": true
     },
     {
@@ -1843,9 +2116,18 @@
       "represents": "CZE",
       "birthplace": "Sokolov",
       "birthCountry": "CZE",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "CZE",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Marketa_Vondrousova"
+        }
+      ],
+      "note": "Czech family.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1854,9 +2136,18 @@
       "represents": "POL",
       "birthplace": "Łódź",
       "birthCountry": "POL",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "POL",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Magdalena_Frech"
+        }
+      ],
+      "note": "Polish family, Łódź.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1865,9 +2156,18 @@
       "represents": "GER",
       "birthplace": "Filderstadt",
       "birthCountry": "DEU",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "DEU",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Laura_Siegemund"
+        }
+      ],
+      "note": "German family.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1878,15 +2178,15 @@
       "birthCountry": "GRC",
       "parents": [
         {
-          "role": "",
+          "role": "mother",
           "name": "Angelikí Kanellopoúlou",
           "birthplace": "Athens",
           "country": "GRC",
           "status": "verified",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Maria_Sakkari"
         }
       ],
-      "note": "Angelikí Kanellopoúlou — tennis player (Greece)",
+      "note": "Greek family; mother a former WTA player, grandfather a footballer.",
       "researched": true
     },
     {
@@ -1898,15 +2198,15 @@
       "birthCountry": "CZE",
       "parents": [
         {
-          "role": "",
+          "role": "mother",
           "name": "Jitka Janáčková",
           "birthplace": "Mladá Boleslav",
           "country": "CZE",
           "status": "verified",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Tereza_Valentova"
         }
       ],
-      "note": "Jitka Janáčková — canoeist (Czechoslovakia)",
+      "note": "Czech family; mother a former canoeist.",
       "researched": true
     },
     {
@@ -1916,9 +2216,18 @@
       "represents": "USA",
       "birthplace": "Mason",
       "birthCountry": "USA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "USA",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Peyton_Stearns"
+        }
+      ],
+      "note": "American family, Ohio.",
+      "researched": true
     },
     {
       "tour": "wta",
@@ -1927,9 +2236,18 @@
       "represents": "USA",
       "birthplace": "Calhoun",
       "birthCountry": "USA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "USA",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/McCartney_Kessler"
+        }
+      ],
+      "note": "American family, Georgia.",
+      "researched": true
     }
   ]
 }
