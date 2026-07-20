@@ -203,11 +203,11 @@
           "birthplace": "",
           "country": "RUS",
           "status": "inferred",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Daniil_Medvedev"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Russian family, born in Moscow. Parent birthplaces not individually published.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -256,9 +256,18 @@
       "represents": "KAZ",
       "birthplace": "Gatchina",
       "birthCountry": "RUS",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "RUS",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Alexander_Bublik"
+        }
+      ],
+      "note": "Russian family (born Gatchina); represents Kazakhstan since 2016.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -267,9 +276,18 @@
       "represents": "CZE",
       "birthplace": "Mladá Boleslav",
       "birthCountry": "CZE",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "CZE",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Ji%C5%99%C3%AD_Lehe%C4%8Dka"
+        }
+      ],
+      "note": "Czech family.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -278,9 +296,18 @@
       "represents": "RUS",
       "birthplace": "Moscow",
       "birthCountry": "RUS",
-      "parents": [],
-      "note": "Marina Maryenko — tennis coach (Russia, Soviet Union)",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "RUS",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Andrey_Rublev"
+        }
+      ],
+      "note": "Russian family, Moscow; mother Marina Marenko a tennis coach.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -309,9 +336,26 @@
       "represents": "RUS",
       "birthplace": "Moscow",
       "birthCountry": "RUS",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "father",
+          "name": "Abgar Khachanov",
+          "birthplace": "",
+          "country": "ARM",
+          "status": "inferred",
+          "source": "https://ru.wikipedia.org/wiki/Хачанов,_Карен_Абгарович"
+        },
+        {
+          "role": "mother",
+          "name": "Natalia Khachanova",
+          "birthplace": "Moscow",
+          "country": "RUS",
+          "status": "verified",
+          "source": "https://ru.wikipedia.org/wiki/Хачанов,_Карен_Абгарович"
+        }
+      ],
+      "note": "Armenian father (paternal family moved Yerevan→Moscow in USSR era), Russian mother. Father's exact birthplace not published.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -320,9 +364,18 @@
       "represents": "ITA",
       "birthplace": "Carrara",
       "birthCountry": "ITA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "ITA",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Lorenzo_Musetti"
+        }
+      ],
+      "note": "Italian family, Carrara.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -331,9 +384,18 @@
       "represents": "CZE",
       "birthplace": "Prostějov",
       "birthCountry": "CZE",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "CZE",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Jakub_Men%C5%A1%C3%ADk"
+        }
+      ],
+      "note": "Czech family.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -344,16 +406,24 @@
       "birthCountry": "ARG",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
-          "country": "ITA",
+          "role": "father",
+          "name": "Gino (Luciano Enrique) Darderi",
+          "birthplace": "Argentina",
+          "country": "ARG",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Luciano_Darderi"
+        },
+        {
+          "role": "mother",
+          "name": "Andrea Germino",
+          "birthplace": "Argentina",
+          "country": "ARG",
           "status": "inferred",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Luciano_Darderi"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Both parents Argentine; Italian citizenship comes from paternal grandfather (Fano, Marche).",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -364,16 +434,24 @@
       "birthCountry": "USA",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
+          "role": "father",
+          "name": "Khuong Dan Tien",
+          "birthplace": "Vietnam",
           "country": "VNM",
-          "status": "inferred",
-          "source": ""
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Learner_Tien"
+        },
+        {
+          "role": "mother",
+          "name": "Huyen Tien",
+          "birthplace": "Vietnam",
+          "country": "VNM",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Learner_Tien"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Both parents Hoa (ethnic-Chinese Vietnamese) refugees who fled South Vietnam to the US.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -393,9 +471,26 @@
       "represents": "FRA",
       "birthplace": "Bondoufle",
       "birthCountry": "FRA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "father",
+          "name": "Jean-Philippe Fils",
+          "birthplace": "Haiti",
+          "country": "HTI",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Arthur_Fils"
+        },
+        {
+          "role": "mother",
+          "name": "Anne Fils",
+          "birthplace": "France",
+          "country": "FRA",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Arthur_Fils"
+        }
+      ],
+      "note": "Haitian father, French mother. (French sources correct the common 'Guadeloupe' claim to Haiti.)",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -406,16 +501,24 @@
       "birthCountry": "ESP",
       "parents": [
         {
-          "role": "",
-          "name": "",
+          "role": "father",
+          "name": "Eduard Mark Davidovich",
           "birthplace": "",
           "country": "RUS",
           "status": "inferred",
-          "source": ""
+          "source": "https://en.wikipedia.org/wiki/Alejandro_Davidovich_Fokina"
+        },
+        {
+          "role": "mother",
+          "name": "Tatiana Fokina",
+          "birthplace": "",
+          "country": "RUS",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Alejandro_Davidovich_Fokina"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Swedish-Russian father, Russian mother; born near Málaga. Father's birthplace not published.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -424,9 +527,18 @@
       "represents": "ESP",
       "birthplace": "Leganés",
       "birthCountry": "ESP",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "ESP",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Rafael_Jodar"
+        }
+      ],
+      "note": "Spanish family, Madrid region.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -446,9 +558,18 @@
       "represents": "BRA",
       "birthplace": "Rio de Janeiro",
       "birthCountry": "BRA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "BRA",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Fonseca_(tennis)"
+        }
+      ],
+      "note": "Brazilian family, Rio de Janeiro.",
+      "researched": true
     },
     {
       "tour": "atp",
