@@ -460,9 +460,18 @@
       "represents": "MON",
       "birthplace": "Monaco",
       "birthCountry": "MCO",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "mother",
+          "name": "",
+          "birthplace": "France",
+          "country": "FRA",
+          "status": "verified",
+          "source": "https://www.atptour.com/en/news/rinderknech-vacherot-shanghai-2025-wednesday"
+        }
+      ],
+      "note": "Mother is a Paquet (French tennis family), sister of Rinderknech's mother. Born in Monaco.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -547,9 +556,18 @@
       "represents": "FRA",
       "birthplace": "Gassin",
       "birthCountry": "FRA",
-      "parents": [],
-      "note": "Virginie Paquet — tennis player (France)",
-      "researched": false
+      "parents": [
+        {
+          "role": "mother",
+          "name": "Virginie Paquet",
+          "birthplace": "France",
+          "country": "FRA",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Arthur_Rinderknech"
+        }
+      ],
+      "note": "Mother Virginie Paquet, French tennis player; cousin of Valentin Vacherot (their mothers are sisters).",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -580,16 +598,24 @@
       "birthCountry": "USA",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
+          "role": "father",
+          "name": "Constant (Frances Sr.) Tiafoe",
+          "birthplace": "Sierra Leone",
           "country": "SLE",
-          "status": "inferred",
-          "source": ""
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Frances_Tiafoe"
+        },
+        {
+          "role": "mother",
+          "name": "Alphina Kamara",
+          "birthplace": "Sierra Leone",
+          "country": "SLE",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Frances_Tiafoe"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Both parents emigrated from Sierra Leone, fleeing the civil war.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -598,9 +624,18 @@
       "represents": "ARG",
       "birthplace": "Buenos Aires",
       "birthCountry": "ARG",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "ARG",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Francisco_Cerundolo"
+        }
+      ],
+      "note": "Argentine family, Buenos Aires.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -609,9 +644,18 @@
       "represents": "USA",
       "birthplace": "Camden County",
       "birthCountry": "USA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "USA",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Tommy_Paul"
+        }
+      ],
+      "note": "American family; raised in New Jersey and North Carolina.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -622,16 +666,24 @@
       "birthCountry": "ZAF",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
+          "role": "father",
+          "name": "David Norrie",
+          "birthplace": "Glasgow",
           "country": "GBR",
-          "status": "inferred",
-          "source": ""
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Cameron_Norrie"
+        },
+        {
+          "role": "mother",
+          "name": "Helen Norrie",
+          "birthplace": "Cardiff",
+          "country": "GBR",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Cameron_Norrie"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Scottish father, Welsh mother; born in Johannesburg, raised in New Zealand.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -640,9 +692,18 @@
       "represents": "ARG",
       "birthplace": "La Plata",
       "birthCountry": "ARG",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "ARG",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Mart%C3%ADn_Etcheverry"
+        }
+      ],
+      "note": "Argentine family, La Plata.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -653,16 +714,24 @@
       "birthCountry": "CAN",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
+          "role": "father",
+          "name": "Ricardo Tabilo",
+          "birthplace": "Antofagasta",
           "country": "CHL",
-          "status": "inferred",
-          "source": ""
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Alejandro_Tabilo"
+        },
+        {
+          "role": "mother",
+          "name": "María Álvarez",
+          "birthplace": "San Felipe",
+          "country": "CHL",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Alejandro_Tabilo"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Both parents Chilean; met in Toronto, where Alejandro was born.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -671,9 +740,26 @@
       "represents": "USA",
       "birthplace": "San Diego",
       "birthCountry": "USA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "father",
+          "name": "Wesley Nakashima",
+          "birthplace": "California",
+          "country": "USA",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Brandon_Nakashima"
+        },
+        {
+          "role": "mother",
+          "name": "Christina Nakashima",
+          "birthplace": "Vietnam",
+          "country": "VNM",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Brandon_Nakashima"
+        }
+      ],
+      "note": "Father Japanese-American (born California); mother born in Vietnam, moved to the US aged 5.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -682,9 +768,18 @@
       "represents": "FRA",
       "birthplace": "Metz",
       "birthCountry": "FRA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "FRA",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Ugo_Humbert"
+        }
+      ],
+      "note": "French family, Metz.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -693,9 +788,18 @@
       "represents": "ITA",
       "birthplace": "Sanremo",
       "birthCountry": "ITA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "ITA",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Matteo_Arnaldi"
+        }
+      ],
+      "note": "Italian family, Sanremo.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -704,9 +808,18 @@
       "represents": "PER",
       "birthplace": "Lima",
       "birthCountry": "PER",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "PER",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Ignacio_Buse"
+        }
+      ],
+      "note": "Peruvian family, Lima.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -715,9 +828,18 @@
       "represents": "FRA",
       "birthplace": "Neuilly-sur-Seine",
       "birthCountry": "FRA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "FRA",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Corentin_Moutet"
+        }
+      ],
+      "note": "French family.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -726,9 +848,18 @@
       "represents": "BEL",
       "birthplace": "Antwerp",
       "birthCountry": "BEL",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "BEL",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Alexander_Blockx"
+        }
+      ],
+      "note": "Belgian family, Antwerp.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -737,9 +868,18 @@
       "represents": "USA",
       "birthplace": "Laguna Hills",
       "birthCountry": "USA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "USA",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Alex_Michelsen"
+        }
+      ],
+      "note": "American family, California.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -748,9 +888,18 @@
       "represents": "ARG",
       "birthplace": "9 de Julio",
       "birthCountry": "ARG",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "ARG",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Mariano_Navone"
+        }
+      ],
+      "note": "Argentine family.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -759,9 +908,18 @@
       "represents": "BEL",
       "birthplace": "Lommel",
       "birthCountry": "BEL",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "BEL",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Zizou_Bergs"
+        }
+      ],
+      "note": "Belgian family.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -770,9 +928,18 @@
       "represents": "NED",
       "birthplace": "Haarlem",
       "birthCountry": "NLD",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "NLD",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Tallon_Griekspoor"
+        }
+      ],
+      "note": "Dutch family, Haarlem.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -783,24 +950,24 @@
       "birthCountry": "ISR",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
-          "country": "UKR",
-          "status": "inferred",
-          "source": ""
-        },
-        {
-          "role": "",
-          "name": "",
+          "role": "father",
+          "name": "Viktor Shapovalov",
           "birthplace": "",
           "country": "RUS",
           "status": "inferred",
-          "source": ""
+          "source": "https://ru.wikipedia.org/wiki/Шаповалов,_Денис_(теннисист)"
+        },
+        {
+          "role": "mother",
+          "name": "Tessa Shapovalova",
+          "birthplace": "Lviv",
+          "country": "UKR",
+          "status": "verified",
+          "source": "https://ru.wikipedia.org/wiki/Шаповалов,_Денис_(теннисист)"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Mother from Lviv (Ukraine), a Soviet tennis finalist; Russian-Jewish family. Born Tel Aviv, moved to Canada as a baby.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -809,9 +976,18 @@
       "represents": "CZE",
       "birthplace": "Beroun",
       "birthCountry": "CZE",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "CZE",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Mach%C3%A1%C4%8D"
+        }
+      ],
+      "note": "Czech family.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -820,9 +996,18 @@
       "represents": "ESP",
       "birthplace": "Santanyí",
       "birthCountry": "ESP",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "ESP",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Jaume_Munar"
+        }
+      ],
+      "note": "Spanish family, Mallorca.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -831,9 +1016,18 @@
       "represents": "ARG",
       "birthplace": "Buenos Aires",
       "birthCountry": "ARG",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "ARG",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Juan_Manuel_Cerundolo"
+        }
+      ],
+      "note": "Argentine family, Buenos Aires.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -842,9 +1036,18 @@
       "represents": "FRA",
       "birthplace": "Soisy-sous-Montmorency",
       "birthCountry": "FRA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "FRA",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Adrian_Mannarino"
+        }
+      ],
+      "note": "French family.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -855,16 +1058,24 @@
       "birthCountry": "BIH",
       "parents": [
         {
-          "role": "",
-          "name": "",
-          "birthplace": "",
+          "role": "father",
+          "name": "Zdenko Čilić",
+          "birthplace": "Međugorje",
           "country": "BIH",
-          "status": "inferred",
-          "source": ""
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Marin_%C4%8Cili%C4%87"
+        },
+        {
+          "role": "mother",
+          "name": "Koviljka Čilić",
+          "birthplace": "Međugorje",
+          "country": "BIH",
+          "status": "verified",
+          "source": "https://en.wikipedia.org/wiki/Marin_%C4%8Cili%C4%87"
         }
       ],
-      "note": "",
-      "researched": false
+      "note": "Bosnian-Croat family from Međugorje, Herzegovina; represents Croatia.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -873,9 +1084,18 @@
       "represents": "ITA",
       "birthplace": "Rome",
       "birthCountry": "ITA",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "ITA",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Matteo_Berrettini"
+        }
+      ],
+      "note": "Italian family, Rome.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -884,9 +1104,18 @@
       "represents": "SRB",
       "birthplace": "Belgrade",
       "birthCountry": "SRB",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "SRB",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Miomir_Kecmanovic"
+        }
+      ],
+      "note": "Serbian family, Belgrade.",
+      "researched": true
     },
     {
       "tour": "atp",
@@ -895,9 +1124,18 @@
       "represents": "POR",
       "birthplace": "Maia",
       "birthCountry": "PRT",
-      "parents": [],
-      "note": "",
-      "researched": false
+      "parents": [
+        {
+          "role": "",
+          "name": "",
+          "birthplace": "",
+          "country": "PRT",
+          "status": "inferred",
+          "source": "https://en.wikipedia.org/wiki/Nuno_Borges"
+        }
+      ],
+      "note": "Portuguese family, Maia.",
+      "researched": true
     },
     {
       "tour": "wta",
